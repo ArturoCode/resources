@@ -2,12 +2,23 @@
 
 <br/><aside>
 💡 Esta es una lista de recursos web que suelo usar o considero que son útiles.
-
 </aside>
 
 <br/>
 
-- ###### Notion
+## Índice
+
+- [Información](#información)
+- [Notion](#notion)
+- [Útiles](#útiles)
+- [Diseño](#diseño)
+- [Extensiones/Aplicaciones](#extensionesaplicaciones)
+- [Útiles - Portfolio Frontend](#frontend-portfolio)
+- [Uso de APIs](#uso-de-apis)
+
+<br/>
+
+- #### Notion
 
 [Backups automáticos de Notion con GitHub](https://arturocode.gumroad.com/l/backups-automaticos-notion-gitlab)
 
@@ -35,7 +46,7 @@
 
 <br/>
 
-- ###### Útiles
+- #### Útiles 
 
 [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
@@ -107,9 +118,11 @@
 
 [Web Accessibility Checklist](https://www.webaccessibility.com/)
 
+[jQuery Cheatsheet](https://htmlcheatsheet.com/jquery/)
+
 <br/>
         
-- ###### Información
+- #### Información
 
 [Open Bootcamp](https://open-bootcamp.com/)
 
@@ -143,11 +156,25 @@
 
 [Typeform](https://www.typeform.com/es/)
 
+[Libros de programación en Español - GitHub](https://github.com/ArturoCode/libros-programacion-espanol/blob/main/books/free-programming-books-es.md)
+
+[El camino del Frontend Developer - GitHub](https://github.com/mrcodedev/frontend-developer-resources)
+
+[Roadmap a cualquier tecnología - GitHub](https://github.com/kamranahmedse/developer-roadmap)
+
+[Web Developing for Beginners - Microsoft GitHub](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+[Build your own X - GitHub](https://github.com/codecrafters-io/build-your-own-x)
+
+[Awesome Learning - GitHub](https://github.com/afontcu/awesome-learning)
+
+[Web.dev | Google Developers](https://web.dev/learn/)
+
 
 <br/>
 
 
-- ###### Diseño
+- #### Diseño
 
 [CSS Loaders and Spinners](https://cssloaders.github.io/)
 
@@ -201,9 +228,13 @@
 
 [Material Icons - Google Fonts](https://fonts.google.com/icons?selected=Material+Icons)
 
+[SVG Repo - Iconos](https://www.svgrepo.com/)
+
+[CSS Reference](https://cssreference.io/)
+
 <br/>
     
-- ###### Extensiones / Aplicaciones
+- #### Extensiones/Aplicaciones
 
 [Very useful Chrome Extensions - Series' Articles](https://dev.to/j471n/series/15204)
 
@@ -227,7 +258,9 @@
 
 <br/>
 
-- ###### Útiles para crear un portfolio como frontend
+- #### Frontend Portfolio
+
+Útiles para crear un portfolio como frontend
 
 [Portfolio Ideas](https://github.com/evavic44/portfolio-ideas)
 
@@ -287,9 +320,15 @@
 
 [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 
+[JSON Placeholder](http://jsonplaceholder.typicode.com/)
+
+[API jQuery UI Documentation](https://api.jqueryui.com/dialog/)
+
+[Google Hosted Libraries](https://developers.google.com/speed/libraries/)
+
 <br/>
 
-- ###### Uso de APIs
+- #### Uso de APIs
 
 [Custom Gallery](https://twitter.com/be_dev_/status/1529008968911269888)
 
